@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+opencv-python-headless
+numpy
+pandas
+scikit-learn
+joblib
+requests
+python-dotenv
+pytest
+ultralytics
